@@ -17,6 +17,8 @@ This project covers the design and configuration of a Wide Area Network (WAN), i
 | `VLSM.xlsx` | VLSM subnetting calculations and IP address allocation scheme |
 | `_Exports_unetlab_export-20251026-215903 (1).zip` | Network topology export from UNetLab/EVE-NG simulation environment |
 
+![VLSM subnetting sheet](images/vlsm-sheet.png)
+
 ## Key Concepts
 - **VLSM (Variable Length Subnet Masking)** - efficient IP address allocation across multiple network segments
 - **WAN Topology Design** - hub-and-spoke and point-to-point link planning
